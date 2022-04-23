@@ -16,7 +16,6 @@
 Think of it as a monthly, virtual JupyterCon. It’s a place to announce and share fun things happening in the Jupyter community.
 
 For more discussion on the format of these calls, see the thread [here](https://discourse.jupyter.org/t/reviving-the-all-jupyter-team-meetings/423).
-For more discussion on the format of these calls, see the thread [here](https://discourse.jupyter.org/t/reviving-the-all-jupyter-team-meetings/423).
 
 ## Short reports, celebrations, shout-outs
 
